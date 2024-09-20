@@ -1,0 +1,7 @@
+{
+  "name": "test-send-noti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
